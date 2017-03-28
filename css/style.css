@@ -1,0 +1,70 @@
+/*defaults*/
+* {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+/*navbar*/
+
+.navbar {
+    margin: 10px;
+}
+
+.navbar li {
+    display: inline;
+    float: none;
+    padding: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: 
+}
+
+/*header*/
+
+img {
+    margin: 0 auto;
+}
+
+/*hero*/
+
+.hero {
+    position: relative;
+    width: 100%;
+    background-image: url(../img/nycba_hero2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 50vh;
+}
+
+.hero h1 {
+    color: #F3A712;
+    padding: 5% 0% 0%;
+}
+
+/*columns*/
+
+#threepara {
+    padding: 10%;
+}
+
+#twopics {
+    padding: 0 10% 10%;
+}
+
+#twopics img {
+    max-width: 500px;
+}
+
+/*call to action*/
+
+.cta {
+    color: #F4F4F6;
+    background-color: #5C80BC;
+    padding: 5% 10%;
+}
