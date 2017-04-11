@@ -5,6 +5,10 @@
     padding: 0px;
 }
 
+p {
+    margin: 5%;
+}
+
 /*navbar*/
 
 .navbar {
